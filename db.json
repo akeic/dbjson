@@ -9,7 +9,7 @@
   "incident":{
     "location": "Hospital ABC",
     "timestamp": "2025-02-18T13:55:0000TS",
-    "airqualityindex": "1.2",
-    "healthimpactclass": "high"
+    "sensorreading": "1.2",
+    "classification": "high"
   }
 }
